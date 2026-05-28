@@ -20,31 +20,28 @@ I'm a **Fullstack Developer** focused on backend architecture, microservices, an
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I've Built
 
-- Building a **music platform** — think Spotify × SoundCloud with social features, real-time chat, and collaborative playlists
-- Deepening my knowledge of **microservice architecture**: gRPC, message queues, API gateways, and distributed systems
-- Sharpening skills in **system design** and application architecture
+**Fleet Video Surveillance Platform** — Fullstack  
+Architected the entire auth system from scratch: JWT access/refresh tokens, Redis-based session invalidation, role-based guards. Built a full admin panel with user management, impersonation ("Login as user"), audit logging via custom interceptors, and a video request workflow end-to-end.
 
----
+**Reverse Auction Marketplace** — Fullstack  
+Took a raw MVP to a production-ready v2.0 based on real dealer feedback. Delivered a multi-step lot creation flow, paginated catalog with advanced filtering, SMS-based auth, real-time dealer chat via WebSockets, and resolved 80+ cross-browser issues across Safari and Firefox.
 
-## 📈 Currently Learning
+**AI-Powered SaaS Analytics Platform** — Frontend  
+Joined a high-complexity product mid-flight and shipped independently: built the "Expert Templates" module from scratch, implemented system-wide real-time toast notifications, integrated Mixpanel analytics with a custom route config, and overhauled scenario management logic across multiple pages.
 
-- Advanced NestJS patterns (interceptors, guards, custom decorators)
-- Distributed systems design & inter-service communication
-- TypeScript type system at a deeper level
+**Martech Corporate Website** — Fullstack  
+Led a full blog redesign with search, topic filtering, and pagination. Integrated a headless CMS, customized a rich-text editor for editorial needs, and launched a bilingual (RU/EN) version across separate domains — all with server-side form logging and YM event tracking.
 
----
+**Real Estate Platform + CRM** — Frontend  
+Designed and implemented a server-side PDF presentation generator using headless browser rendering. Integrated an interactive map with custom markers, route drawing, and cluster support. Built JWT auth, protected middleware, a booking calendar, and infinite scroll for property listings.
 
-## 💭 My Philosophy
+**Admin Panel for Online Auction** — Frontend  
+Greenfield project: designed the full FSD architecture, implemented lot/user management tables, typed all components and API interfaces end-to-end, and optimized rendering with lazy loading, memoization, and debounced search.
 
-> AI is changing how we write code — but it makes deep technical knowledge *more* valuable, not less. I believe in understanding systems from the ground up: not just *what* works, but *why*.
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to talk backend architecture, collaborate on a project, or just geek out about systems design.
+**News Aggregator** — Frontend  
+Built a high-performance news feed with virtualized infinite scroll, multi-parameter URL-synced filters, and a memoized custom hook — optimized to handle heavy loads without layout thrash.
 
 ---
 
